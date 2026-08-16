@@ -7,3 +7,5 @@ Analysis of U.S. mortality data using R programming.
 - Grouped and summarized data to identify patters and differences across age groups.
 - Created visualizations to communicate mortality trends using ggplot2.
 
+### Mortality Rate
+![Mortality Rate](mortality_rate.png)
