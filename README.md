@@ -9,3 +9,6 @@ Analysis of U.S. mortality data using R programming.
 
 ### Mortality Rate
 ![Mortality Rate](mortality_rate.png)
+
+### Remaining Life Expectancy
+![Remaining Life Expectancy](life_expectancy.png)
